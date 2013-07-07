@@ -11,3 +11,5 @@
 *.lai
 *.la
 *.a
+
+llvm-ir-global-mapping
